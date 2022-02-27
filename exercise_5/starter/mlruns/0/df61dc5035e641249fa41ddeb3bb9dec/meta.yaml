@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/yangsun/Desktop/additional%20learning/ml/Udacity_MLE/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_5/starter/mlruns/0/df61dc5035e641249fa41ddeb3bb9dec/artifacts
+end_time: 1645941279157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: df61dc5035e641249fa41ddeb3bb9dec
+run_uuid: df61dc5035e641249fa41ddeb3bb9dec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1645941193067
+status: 4
+tags: []
+user_id: yangsun
